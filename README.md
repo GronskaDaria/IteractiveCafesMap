@@ -1,5 +1,5 @@
 # Webowa Mapa Kawiarni – Projekt GIS
-
+---
 Aplikacja webowa prezentująca lokalizacje kawiarni na interaktywnej mapie. Projekt został wykonany w ramach zajęć **GIS – Systemy Informacji Przestrzennej** na kierunku Informatyka NST (PG WETI).
 ---
 
