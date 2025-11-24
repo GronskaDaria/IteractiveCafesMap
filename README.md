@@ -21,3 +21,5 @@ Aplikacja umożliwia przeglądanie kawiarni na świecie oraz wyszukiwanie ich w 
 - **Integracja z bazą danych** MongoDB
 - Automatyczne **geokodowanie** adresów
 - Pełna **responsywność** interfejsu
+
+  
